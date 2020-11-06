@@ -1,3 +1,5 @@
 public interface Accounttable <A> {
-    void print ();
+
+    void print (A code);
+
 }
