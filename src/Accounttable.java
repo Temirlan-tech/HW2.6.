@@ -1,3 +1,3 @@
-public interface Accounttable {
+public interface Accounttable <A> {
     void print ();
 }
